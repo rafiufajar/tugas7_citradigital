@@ -52,7 +52,7 @@ Cek: `tesseract --version`
 
 ### 2. Instalasi
 ```bash
-git clone <URL-REPO-ANDA>
+git clone https://github.com/rafiufajar/tugas7_citradigital.git
 cd ijazah-verifier
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
